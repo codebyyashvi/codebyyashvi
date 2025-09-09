@@ -47,14 +47,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebyyashvi&theme=monokai&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
@@ -76,14 +68,6 @@
   <a href="https://github.com/codebyyashvi/QueryHub">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyyashvi&repo=QueryHub&theme=tokyonight" />
   </a>
-</p>
-
----
-
-### 🎉 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebyyashvi&label=Profile%20views&color=0e75b6&style=flat" alt="yashvikhatri" />
 </p>
 
 ---
