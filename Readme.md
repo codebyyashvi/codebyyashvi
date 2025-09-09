@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer and tech enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;App+Developer;Tech+Explorer;Hackathon+Lover&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;AI/ML+Developer;Tech+Explorer;Hackathon+Lover&center=true&width=440&height=45">
 </p>
 
 ---
@@ -12,10 +12,10 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **CineLink – A Movie Ticket Booking App**
-- 🌱 I’m learning **AI, Firebase, and Flutter**
-- 💡 Building **Class Buddy** – An AI platform for JEE/NEET aspirants
-- 👯 I’m looking to collaborate on **Open-source and Hackathons**
-- 📫 Reach me at: **yashvikhatri.dev@gmail.com**
+- 🌱 On the path to becoming a **Data Scientist** – already explored **AI/ML**, and now diving deep into **data science**
+- 🤖 Built several AI projects like **Speak2Hire** (Murf AI voiceovers) and **QueryHub** (GenAI RAG with Gemini API)
+- 👯 I’m looking to collaborate on **open-source, AI tools, and hackathons**
+- 📫 Reach me at: **yashvikhatri26@gmail.com**
 - ⚡ Fun fact: *I enjoy turning coffee ☕ into code 💻*
 
 ---
