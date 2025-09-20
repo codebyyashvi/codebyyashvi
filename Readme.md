@@ -16,7 +16,6 @@
 - 🤖 Built several AI projects like **Speak2Hire** (Murf AI voiceovers) and **QueryHub** (GenAI RAG with Gemini API)
 - 👯 I’m looking to collaborate on **open-source, AI tools, and hackathons**
 - 📫 Reach me at: **yashvikhatri26@gmail.com**
-- ⚡ Fun fact: *I enjoy turning coffee ☕ into code 💻*
 
 ---
 
