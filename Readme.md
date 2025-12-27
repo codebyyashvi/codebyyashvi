@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyyashvi&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codebyyashvi&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/codebyyashvi/Speak2Hire">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyyashvi&repo=Speak2Hire&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=Speak2Hire&theme=tokyonight" />
   </a>
   <a href="https://github.com/codebyyashvi/QueryHub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyyashvi&repo=QueryHub&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=QueryHub&theme=tokyonight" />
   </a>
 </p>
 
