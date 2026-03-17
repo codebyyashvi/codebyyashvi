@@ -60,14 +60,25 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/codebyyashvi/studyminutes">
+  <a href="https://github.com/codebyyashvi/study_minutes">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=StudyMinutes&theme=tokyonight">
+  </a><br>
+  <a href="https://www.studyminutes.tech">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+  <br><br>
   <a href="https://github.com/codebyyashvi/Speak2Hire">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=Speak2Hire&theme=tokyonight" />
+  </a><br>
+  <a href="https://speak2-hire.vercel.app/">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+  <br><br>
   <a href="https://github.com/codebyyashvi/QueryHub">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=QueryHub&theme=tokyonight" />
+  </a><br>
+  <a href="https://drive.google.com/file/d/1QVXl8iaUyiTPVvO2WzlxlMxil3XBQSJ3/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
