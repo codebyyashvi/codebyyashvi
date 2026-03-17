@@ -64,21 +64,21 @@
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=study_minutes&theme=tokyonight">
   </a><br>
   <a href="https://www.studyminutes.tech">
-    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=&logoColor=white">
   </a>
   <br><br>
   <a href="https://github.com/codebyyashvi/Speak2Hire">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=Speak2Hire&theme=tokyonight" />
   </a><br>
   <a href="https://speak2-hire.vercel.app/">
-    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=&logoColor=white">
   </a>
   <br><br>
   <a href="https://github.com/codebyyashvi/QueryHub">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=codebyyashvi&repo=QueryHub&theme=tokyonight" />
   </a><br>
   <a href="https://drive.google.com/file/d/1QVXl8iaUyiTPVvO2WzlxlMxil3XBQSJ3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge&logo=&logoColor=white">
   </a>
 </p>
 
