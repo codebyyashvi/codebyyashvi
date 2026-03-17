@@ -11,9 +11,9 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **CineLink – A Movie Ticket Booking App**
+- 🔭 I’m a passionate **developer** having experience in AI/Ml
 - 🌱 On the path to becoming a **Data Scientist** – already explored **AI/ML**, and now diving deep into **data science**
-- 🤖 Built several AI projects like **Speak2Hire** (Murf AI voiceovers) and **QueryHub** (GenAI RAG with Gemini API)
+- 🤖 Built several AI projects like **StudyMinutes** (an AI assistant that helps in your study notes), **Speak2Hire** (Murf AI voiceovers) and **QueryHub** (GenAI RAG with Gemini API)
 - 👯 I’m looking to collaborate on **open-source, AI tools, and hackathons**
 - 📫 Reach me at: **yashvikhatri26@gmail.com**
 
@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/AI/ML-F7931E?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep Learning-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
